@@ -11,7 +11,7 @@ services:
       LDAP_ADMIN_PASSWORD: "admin"
       LDAP_CONFIG_PASSWORD: "config"
       LDAP_READONLY_USER: "false"
-      #LDAP_READONLY_USER_USERNAME: "readonly"
+      ##LDAP_READONLY_USER_USERNAME: "readonly"
       #LDAP_READONLY_USER_PASSWORD: "readonly"
       LDAP_BACKEND: "hdb"
       LDAP_TLS: "true"
